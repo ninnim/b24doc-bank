@@ -3,7 +3,7 @@ apis:
   fool@v1: 
     root: openapi/openapi.yaml
   fool@v2: 
-  root: openapis/openapis.yaml
+  root: openapi/openapis.yaml
 extends:
   - recommended
 rules:
