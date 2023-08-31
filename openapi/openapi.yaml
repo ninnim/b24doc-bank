@@ -12,7 +12,10 @@ info:
   x-logo:
     url: https://redocly.github.io/openapi-template/logo.png
   description: >
-<header id="header" class="header fixed-top">
+    <html>
+    <head>
+    <body>
+    <header id="header" class="header fixed-top">
       <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
   
         <a href="index.html" class="logo d-flex align-items-center">
@@ -76,7 +79,10 @@ info:
         </nav><!-- .navbar -->
       </div>
     </header><!-- End Header -->
-    
+    </body>
+    </head>
+    </html>
+
     This is an **example** API to demonstrate features of the OpenAPI
     specification.
 
