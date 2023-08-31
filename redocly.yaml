@@ -1,9 +1,9 @@
 # See https://redocly.com/docs/cli/configuration/ for more information.
 apis:
-  fool@v1: 
+  sample@v1: 
     root: openapi/openapi.yaml
-  fool@v2: 
-  root: openapi/openapis.yaml
+  sample@v2: 
+  root: openapis/openapi.yaml
 extends:
   - recommended
 rules:
